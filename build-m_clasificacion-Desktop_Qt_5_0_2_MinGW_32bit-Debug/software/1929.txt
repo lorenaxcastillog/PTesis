@@ -1,0 +1,1 @@
+ This version of WP is as good as its predecessors, and the conversion programs are better. Make it your default app for Word docs. There is only one problem I have come across so far. If you set Select mode to WP 9, it is still buggy; it takes some effort to select the text you want. You can always set the mode to the earlier version.

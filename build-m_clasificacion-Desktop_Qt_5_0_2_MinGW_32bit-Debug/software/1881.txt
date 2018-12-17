@@ -1,0 +1,1 @@
+ It re-partitioned my C drive with no problems when it was almost full with a bad sector or block on the drive. I also had drive I was having difficulty formating but director 10.0 did the job, a must have utility program. There is a learning curve with this program if you want to get into all its aspects but its not very steep.
