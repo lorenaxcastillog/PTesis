@@ -15,11 +15,10 @@
 
 #include<stdlib.h>
 
-
-
 using namespace std;
 
 ///string global que guardara los resultados de las comparaciones
+
 //std::map<string,map<string,vector<double>>> resultados_finales;
 std::map<string,map<string,double>> resultados_finales;
 
